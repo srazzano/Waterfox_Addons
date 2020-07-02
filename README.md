@@ -1,1 +1,1 @@
-#Add-on for Waterfox Browser
+# Add-on for Waterfox Browser
